@@ -98,6 +98,8 @@ sns.heatmap(df.corr(),annot=True)
 ### HEATMAP:
 ![Screenshot 2023-04-04 232117](https://user-images.githubusercontent.com/118661118/229880761-fefcb58c-a907-41cf-bce8-19787f365fb4.png)
 
+# RESULT:
+Thus the Bivariate and Multivariate analysis is observerd for the given data set.
 
 
 
